@@ -25,6 +25,10 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/vcplayerbot)
 
+### Generate String Session
+
+- [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)
+
 ### Credits
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)

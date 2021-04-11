@@ -23,7 +23,7 @@
 
 ### Host Bot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/vcplayerbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PHARAOH907/vcplayerbot)
 
 ### Credits
 
